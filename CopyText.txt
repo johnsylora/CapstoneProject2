@@ -1,0 +1,23 @@
+Section: Introduction
+
+My name is John Sylora. I was trained as a pathologist but I have a deep interest in technology. Today I work on personal projects like Scrollnote and others.
+I also have a deep love for tennis. Working on my projects and playing tennis keep my life very occupied.
+
+Section: Resume
+
+Click here for my resume
+
+Section: Projects
+
+Scrollnote
+This gadget allows one to write custom messages and present it in a memorable and unique way. The Scrollnote casing protects the message. The pull bar and knobs allow the message to scroll in and out of the casing.
+
+Web Development
+This skill is learned via Udemy to allow creation of websites for future projects. The projects help tremendously to make the skill useful.
+
+Garage Upgrade
+This will help facilitate the everyday tasks needed around the house. By organizing the garage properly items will be found quickly and efficiently to make everyday tasks possible in an efficient manner.
+
+Section: About Me
+
+I come from a medical family so naturally took up medicine specializing in pathology. However, I had a deep interest in technology so I began my education in engineering and any technical subjects I could enroll in. Today my interest range widely and I keep myself occupied fulfilling these varying interests.

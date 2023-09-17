@@ -1,0 +1,31 @@
+section{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+section h2{
+    font-family: 'PT Serif', serif;
+    font-size: xx-large;
+    margin-bottom: 50px;    
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+
+  .feature-icon img{
+    width: 4rem;
+    height: 4rem;
+  }
+
+  section p{
+    text-align: left;
+  }
+
+  section ul{
+    text-align: left;
+    list-style-type: none;
+  }
+
